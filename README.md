@@ -23,7 +23,7 @@ coordinate c1, C2 are used as longitude and latitude, transform into point or po
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 
-# Copy of the GNU General Public License can be find
+# Copy of the GNU General Public License can be found
 # <http://www.gnu.org/licenses/>.
 
 ```
